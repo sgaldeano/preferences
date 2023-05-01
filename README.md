@@ -17,7 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ![Home - Light Mode](https://user-images.githubusercontent.com/32582213/235408723-b72af39b-8856-49d3-a1f6-ca2e9bb8904a.png)
 ![SideBar - Light Mode](https://user-images.githubusercontent.com/32582213/235408779-01db737a-e7ef-46ac-8656-81627943273c.png)
+![SideBar - Dark Mode](https://user-images.githubusercontent.com/32582213/235408838-4e1ae866-3830-4f80-acff-35d9e0abb0c9.png)
 ![Settings - Light Mode](https://user-images.githubusercontent.com/32582213/235408792-e391387f-7c66-4c4f-964c-d506fbc91cf9.png)
 ![Settings - Dark Mode](https://user-images.githubusercontent.com/32582213/235408799-7fc16aec-a489-4484-96d4-bd0586c2c9ab.png)
-![Home - Dark Mode](https://user-images.githubusercontent.com/32582213/235408823-02b55d14-12e0-4c01-baa7-1b4fec55e7e4.png)
-![SideBar - Dark Mode](https://user-images.githubusercontent.com/32582213/235408838-4e1ae866-3830-4f80-acff-35d9e0abb0c9.png)
